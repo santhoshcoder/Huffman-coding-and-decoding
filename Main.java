@@ -1,5 +1,5 @@
 import java.io.*;
-class Main {
+class main {
   public static void main(String[] args) throws IOException
   {
     System.out.println("\n\n*****************************");
