@@ -2,12 +2,6 @@ import java.io.*;
 class main {
   public static void main(String[] args) throws IOException
   {
-    System.out.println("\n\n*****************************");
-    System.out.println("About the Program:");
-    System.out.println("*****************************");
-    System.out.println("1.To Encode a different text paste it in 'test.txt'");
-    System.out.println("2.The Encoded data is stored in 'encoded.txt'");
-    System.out.println("3.The Decoded data is stored in 'decoded.txt'");
     System.out.println("\n*****************************");
     String name="";
     FileReader f=new FileReader("test.txt");
